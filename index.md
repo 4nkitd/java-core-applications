@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Aerro
 
-You can use the [editor on GitHub](https://github.com/A-Aerro/java-t-calc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the application in the project to study and make somthing for your self ot learn more about java.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, Aerro will be their to provide you whatever he can.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### JAVA Applications
+Java is a grate language but requires practice to master it.
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Calculator
+## IO7(file copier)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-This is what is now avilabel in this repositery with which you can learn java
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-Aerro/java-t-calc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
